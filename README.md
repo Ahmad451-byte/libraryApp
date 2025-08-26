@@ -30,4 +30,3 @@ private static final String PASSWORD = "<PASSWORD>"; // Aus Sicherheitsgründen 
 Hinweis
 
 Aus Sicherheitsgründen enthält dieses Repository keine echten Zugangsdaten. Bitte trage deine eigenen lokalen Verbindungsdaten ein, um die Anwendung zu testen oder weiterzuentwickeln.
-Holen Sie sich Outlook für Android
